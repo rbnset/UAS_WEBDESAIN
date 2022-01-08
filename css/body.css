@@ -20,6 +20,7 @@ body{
 .desc{
     max-width: 400px;
     color: #67678E;
+    font-size: 18px;
 }
 
 .button {
@@ -44,7 +45,7 @@ body{
 }
 
 .img{
-  width: 500px;
+  width: 600px;
   z-index: -1;
 }
 
